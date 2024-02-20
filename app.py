@@ -25,7 +25,7 @@ JOBS = [
     'id': 4,
     'title': 'Backend Engineer',
     'location': 'Bengaluru, India',
-    'salary': '$120,000'
+    'salary': '$150,000'
   }
 ]
 
